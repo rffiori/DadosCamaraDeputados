@@ -1,0 +1,14 @@
+.Main {
+  text-align: center;
+}
+
+.Main-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.Main-title {
+  font-size: 1.5em;
+}
